@@ -1,0 +1,90 @@
+.btn-custom{
+	margin-top: 20px;
+}
+
+.form-top-space{
+	margin-top: 30px;
+}
+
+.navbar-right li:first-of-type a{
+}
+
+
+
+/* -------- Comments Section -------- */ 
+
+.comment{
+	margin-bottom: 4rem;
+}
+
+.comments-title{
+	margin-bottom: 4rem;
+}
+
+.author-image{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+}
+
+.author-name{
+	margin-left: 1rem;
+	float: left;
+}
+
+.author-name h4{
+	margin: 0;
+}
+
+.comment-hold{
+	clear: both;
+	margin-left: 6rem;
+}
+
+.comment-hold p{
+	font-size: 15px;
+	line-height: 1.3em;
+}
+
+.comments-title span{
+	margin-right: 1.5rem;
+	font-size: 2rem;
+}
+
+.bold-test{
+	margin-bottom: 0;
+}
+
+/* ---- Backend Comments ---- */
+
+.comments-table{
+	table-layout: fixed;
+	width: 100%;
+}
+
+.comments-table td{
+   white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+}
+
+#col-name{
+	width: 15%;
+}
+
+#col-email{
+	width: 25%;
+}
+
+#col-btn{
+	width: 5%;
+}
+
+
+/* ----- Form delete button ------ */
+
+.form-delete-btn{
+	display:inline-block;
+	margin-left: 1rem;
+}
